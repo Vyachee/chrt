@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrap {
+    max-width: 400px;
+}
+
+#first_p {
+    color: blue;
+}
+
+#second_p {
+    color: orange;
+    font-family: 'Times';
+}
+
+a:visited {
+    color: gray;
+}
+
+p {
+    margin-top: 15px;
+}
+
+img {
+    width: 100%;
+}
+
+video {
+    max-width: 100%;
+}
