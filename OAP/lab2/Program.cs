@@ -4,7 +4,7 @@ namespace ConsoleApp4
 {
     class Program
     {
-        static void Main(string[] args) // Lab number 3
+        static void Main(string[] args) // Lab number 2
         {
             Tasks t = new Tasks();
             t.Task1();
