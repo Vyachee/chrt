@@ -263,7 +263,7 @@ namespace ConsoleApp8
 
             while (true)
             {
-                Console.Write("\nВыберите номер работы (5all/61/62/63/64/65): ");
+                Console.Write("\nВыберите номер работы (5all/61/62/63/64/65/71/72/73/74/75): ");
                 switch (Console.ReadLine())
                 {
                     case "5all":        // Все задания 5ой практической
