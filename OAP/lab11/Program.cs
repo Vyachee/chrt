@@ -103,7 +103,16 @@ namespace ConsoleApp10
         {
             while(true)
             {
-                Task2();
+                Console.Write("Введите номер задания (1\\2): ");
+                switch(Console.ReadLine())
+                {
+                    case "1":
+                        Task1();
+                        break;
+                    case "2":
+                        Task2();
+                        break;
+                }
             }
         }
     }
