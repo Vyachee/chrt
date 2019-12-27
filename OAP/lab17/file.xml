@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+    <Product>
+      <name>Антифриз</name>
+      <price>345</price>
+      <count>2</count>
+    </Product>
+    <Product>
+      <name>Бампер</name>
+      <price>543</price>
+      <count>2</count>
+      </Product>
+    <Product>
+      <name>Барабан тормозной</name>
+      <price>3568</price>
+      <count>3</count>
+      </Product>
+    <Product>
+      <name>Бачок омывателя</name>
+      <price>222</price>
+      <count>4</count>
+      </Product>
+    <Product>
+      <name>Бачок топливный</name>
+      <price>256</price>
+      <count>4</count>
+      </Product>
+    <Product>
+      <name>Бегунок</name>
+      <price>999</price>
+      <count>2</count>
+      </Product>
+    <Product>
+      <name>Бензонасос</name>
+      <price>1245</price>
+      <count>2</count>
+      </Product>
+    <Product>
+      <name>Блок педалей</name>
+      <price>689</price>
+      <count>45</count>
+      </Product>
+    <Product>
+      <name>Блок предохранителей</name>
+      <price>1098</price>
+      <count>2</count>
+      </Product>
+    <Product>
+      <name>Болт</name>
+      <price>2</price>
+      <count>1000</count>
+      </Product>
+    <Product>
+      <name>Брызговичок</name>
+      <price>2356</price>
+      <count>568</count>
+      </Product>
+    <Product>
+      <name>Вал привода</name>
+      <price>258</price>
+      <count>8</count>
+      </Product>
+    <Product>
+      <name>Вал рейки</name>
+      <price>958</price>
+      <count>9</count>
+      </Product>
+    <Product>
+      <name>Вал трамблера</name>
+      <price>987</price>
+      <count>3</count>
+      </Product>
+    <Product>
+      <name>Венец маховика</name>
+      <price>359</price>
+      <count>3</count>
+    </Product> 
+</Products> 
